@@ -17,7 +17,7 @@ export default function Results({ forwardRef, ref }) {
         <div className="flex justify-between w-full h-full px-20 mt-20">
           <Card percentage={89.98} title={"Train Accuracy"} />
           <Card percentage={90.01} title={"Val Accuracy"} />
-          <Card percentage={90.03} title={"Test Accuracy"} />
+          <Card percentage={89.7} title={"Test Accuracy"} />
         </div>
       </div>
     </div>
